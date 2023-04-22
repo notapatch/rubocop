@@ -5081,6 +5081,11 @@ Style/SignalException:
     - only_fail
     - semantic
 
+Style/SimplifyNotEmptyWithAny:
+  Description: 'TODO: Write a description of the cop.'
+  Enabled: pending
+  VersionAdded: '<<next>>'
+
 Style/SingleArgumentDig:
   Description: 'Avoid using single argument dig method.'
   Enabled: true
